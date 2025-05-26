@@ -1,7 +1,7 @@
-let x = 4;
-let y = 7;
-let z = 12;
-console.log(x + y + z);
+let a = 4;
+let b = 7;
+let c = 12;
+console.log(a + b + c);
 
 y = 12;
 if (x == z) {
